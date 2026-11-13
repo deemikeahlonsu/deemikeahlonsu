@@ -1,5 +1,5 @@
 
-Hi there, I'm Daniel Awolonsu 👋
+Hi there, I'm Daniel Ahlonsu 👋
 🚀 DevOps Engineer | Software Developer | Graphic Designer
 
 I'm a DevOps Engineer, Software Developer, and Graphic Designer passionate about creating complete digital solutions from concept and design to development, deployment, and continuous improvement.
